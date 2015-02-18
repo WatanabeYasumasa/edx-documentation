@@ -3,6 +3,13 @@ edX Analytics
 ####################################
 
 ******************
+February 19, 2015
+******************
+
+Events in the data package now include data from two HTTP header fields,
+``referer`` and ``accept_language``.
+
+******************
 February 12, 2015
 ******************
 

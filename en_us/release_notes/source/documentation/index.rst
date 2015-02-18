@@ -3,6 +3,27 @@ edX Documentation
 ####################################
 
 ******************
+February 19, 2015
+******************
+
+=================================
+edX Developer's Guide
+=================================
+
+This guide now includes a new section containing guidelines and tips for
+developing code that is compliant with Web Content Accessibility Guidelines
+(WCAG) 2.0. See `Accessibility Guidelines for Developers`_.
+
+==================================
+Building and Running an edX Course
+==================================
+
+In the `Creating Exercises and Tools`_ chapter, the section about accessing Open
+Response Assessment information has been updated to include a topic with details
+about `Removing a student submission`_ from peer grading.
+
+
+******************
 January 28, 2015
 ******************
 

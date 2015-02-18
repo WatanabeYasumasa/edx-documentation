@@ -3,6 +3,14 @@ Open edX
 ####################################
 
 ******************
+February 19, 2015
+******************
+
+A fix has been added to address an issue where free courses are added to the
+shopping cart with a cost of $0.00 when the shopping cart feature is enabled.
+Free courses are no longer added to the shopping cart. (OSPR-396)
+
+******************
 January 28, 2015
 ******************
 

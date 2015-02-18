@@ -3,6 +3,12 @@ edX Insights
 ####################################
 
 ******************
+February 19, 2015
+******************
+
+Student activity data reported by edX Insights now includes students who used the edX Mobile app to watch videos on smartphones.
+
+******************
 January 28, 2015
 ******************
 
